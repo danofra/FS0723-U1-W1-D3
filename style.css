@@ -1,5 +1,12 @@
 html{
-    font-family: 'Georgia'
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+}
+main{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 #logo {
     text-align: center;
