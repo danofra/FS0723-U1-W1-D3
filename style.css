@@ -1,0 +1,44 @@
+html{
+    font-family: 'Georgia'
+}
+#logo {
+    text-align: center;
+    margin: 0 auto;
+}
+#did{
+    text-align: center;
+    color:aqua;
+    padding: 5px;
+    font-size: 20px;
+}
+#intestazione{
+    text-align: center;
+    font-size: 50px;
+}
+#par {
+    text-align: center;
+    font-size: 30px;
+}
+#img{
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+#article { 
+    border-left: 0.1em solid #ffd877;
+}
+#ingredients {
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+}
+ul li {
+    font-size: 20px;
+}
+ol li {
+    font-size: 20px;
+}
+#fine {
+    font-size: 20px;
+}
