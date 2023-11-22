@@ -10,17 +10,18 @@ main{
 }
 #logo {
     text-align: center;
-    margin: 0 auto;
 }
 #did{
     text-align: center;
-    color:aqua;
-    padding: 5px;
+    color:black;
+    padding: 4px;
     font-size: 20px;
+    border-top: 5px solid orange;
+    background-color: rgba(255, 217, 0, 0.486);
 }
 #intestazione{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 #par {
     text-align: center;
@@ -31,14 +32,19 @@ main{
     margin: 0 auto;
     border-radius: 50px;
 }
+#par1 {
+    display: block;
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-top: 1rem;
+}
 #article { 
-    border-left: 0.1em solid #ffd877;
+    border-left: 4px solid #ffd877;
 }
-#ingredients {
-    font-size: 25px;
-}
-h2{
-    font-size: 35px;
+.h2 {
+    font-size: 40px;
+border-bottom: 4px solid cadetblue;
+padding-bottom: 5px;
 }
 ul li {
     font-size: 20px;
